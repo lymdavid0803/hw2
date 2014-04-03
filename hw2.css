@@ -1,0 +1,45 @@
+.title{
+	color: white;
+	width: 85%;
+	margin: 0 auto;
+	text-shadow: #99FFCC 0px 0px 10px; 
+ 	text-shadow: #99FFCC 0px 0px 10px 10px; 
+}
+article{
+	width: 85%;
+	margin: 0 auto;
+}
+.image{
+	color: white;
+	font-size: 50px; 
+}
+.school{
+	color: white;
+	list-style-type: none;
+}
+.school li{
+	font-size: 40px; 
+}
+.school a{
+	font-size: 20px; 
+}
+.interest {
+	color: white;
+	list-style-type: none;
+}
+.interest li{
+	font-size: 40px; 
+}
+.interest p{
+	font-size: 20px; 
+}
+.born{
+	color: white;
+	list-style-type: none;
+	font-size: 30px; 
+}
+.word{
+	color: white;
+	list-style-type: none;
+		font-size: 30px; 
+}
